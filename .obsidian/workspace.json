@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1/Глава 1/Введение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Введение"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1/Глава 1/Введение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Home"
+              "title": "Обратные ссылки для Введение"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1/Глава 1/Введение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Home"
+              "title": "Исходящие ссылки из Введение"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1/Глава 1/Введение.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Home"
+              "title": "Структура Введение"
             }
           }
         ]
@@ -165,8 +165,14 @@
   },
   "active": "5e7e160fe30c6a72",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Home.md",
+    "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1/Глава 1/Введение.md",
+    "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1/Глава 1",
+    "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1/Без названия.md",
+    "Конспекты по книгам/SQL для чайников. Аллен Тейлор/Часть 1",
+    "Конспекты по книгам/SQL для чайников. Аллен Тейлор",
+    "Без названия",
+    "conflict-files-obsidian-git.md",
     "Университет/Университет.md",
     "Университет",
     "Конспекты по книгам/Конспекты по книгам.md",
