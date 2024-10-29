@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13e08716dfa9ec17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "687d9afa1ab9ec5b",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конспекты по книгам/Конспекты по книгам.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конспекты по книгам/Конспекты по книгам.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспекты по книгам/Конспекты по книгам.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -174,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfb3e018c81ead9f",
+  "active": "13e08716dfa9ec17",
   "lastOpenFiles": [
-    "Университет/Университет.md",
     "Конспекты по книгам/Конспекты по книгам.md",
+    "conflict-files-obsidian-git.md",
+    "Университет/Университет.md",
     "Home.md",
     "Добро пожаловать.md",
     "Университет",
