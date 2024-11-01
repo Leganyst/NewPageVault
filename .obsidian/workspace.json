@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Университет/Творческий проект/1 вариант ТЗ.md",
+                "file": "Университет/Творческий проект/1 User Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 вариант ТЗ"
+              "title": "1 User Story"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Университет/Творческий проект/1 вариант ТЗ.md",
+                "file": "Университет/Творческий проект/1 User Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 1 вариант ТЗ"
+              "title": "Обратные ссылки для 1 User Story"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Университет/Творческий проект/1 вариант ТЗ.md",
+                "file": "Университет/Творческий проект/1 User Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 1 вариант ТЗ"
+              "title": "Исходящие ссылки из 1 User Story"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Университет/Творческий проект/1 вариант ТЗ.md"
+                "file": "Университет/Творческий проект/1 User Story.md"
               },
               "icon": "lucide-list",
-              "title": "Структура 1 вариант ТЗ"
+              "title": "Структура 1 User Story"
             }
           }
         ],
@@ -165,8 +165,8 @@
   },
   "active": "97e48244369747c5",
   "lastOpenFiles": [
-    "Университет/Творческий проект/1 User Story.md",
     "Университет/Творческий проект/1 вариант ТЗ.md",
+    "Университет/Творческий проект/1 User Story.md",
     "conflict-files-obsidian-git.md",
     "Университет/Творческий проект/Линия работы над продуктом.md",
     "Университет/Творческий проект/Для составления ТЗ и упорядочивания хотелок.md",
